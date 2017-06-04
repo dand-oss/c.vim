@@ -2088,7 +2088,7 @@ function! C_Run ()
 				setlocal noswapfile
 				setlocal syntax=none
 				setlocal bufhidden=delete
-				setlocal tabstop=8
+				setlocal tabstop=4
 			endif
 			"
 			" run programm
